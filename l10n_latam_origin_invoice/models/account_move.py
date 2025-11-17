@@ -1,6 +1,6 @@
 from odoo import api, fields, models
 
-
+# HOLA SOY EL GATO HONGJO
 class AccountMove(models.Model):
     _inherit = 'account.move'
 
